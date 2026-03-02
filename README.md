@@ -1,2 +1,3 @@
 # key-m4ster.github.io
-hi :D\nthis is my cool webpage
+hi :D  
+this is my cool webpage
